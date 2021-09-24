@@ -1,0 +1,16 @@
+{
+    "token": "Enter your bot token here!",
+    "botname": "Enter your bot name here!",
+    "PREFIX": "Enter your bot prefix here!",
+    "thumbnailurl": "Enter your bots icon url here!",
+
+
+
+
+    
+    "quiz_general": "https://opentdb.com/api.php?amount=5&category=9&type=boolean",
+    "quiz_science_computer": "https://opentdb.com/api.php?amount=5&category=18&type=boolean",
+    "quiz_sports": "https://opentdb.com/api.php?amount=5&category=21&type=boolean",
+    "quiz_anime": "https://opentdb.com/api.php?amount=5&category=31&type=boolean",
+    "quiz_random": "https://opentdb.com/api.php?amount=5&type=boolean"
+}

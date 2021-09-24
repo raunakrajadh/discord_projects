@@ -1,0 +1,9 @@
+{
+"token": "Enter your bot token here!",
+"botname": "Enter your bot name here!",
+"botdeveloper": "Enter your name or username (e.g. Someone#1234)",
+"thumbnailurl": "Enter your bot icon url here!",
+"botinvite": "Enter your bot invite link here!",
+"supportserver": "Enter the link to your support server",
+"PREFIX": "Enter your bot PREFIX here!"
+}
