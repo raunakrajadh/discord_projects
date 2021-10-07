@@ -4,6 +4,8 @@ Basic music bot with discord.js v13. Uses <a href="https://discord-music-player.
 
 ## How to configure the bot?
 
+⚠ Node v16 is required to run!
+
 1. Setup/ Install the dependencies 
 
 Open terminal, navigate to your folder and run the following!
