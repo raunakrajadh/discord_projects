@@ -1,6 +1,6 @@
 # Music Bot
 
-Basic music bot with discord.js v13. Uses <a href="https://discord-music-player.js.org/">Discord Music Play</a>
+Basic music bot with discord.js v13. Uses <a href="https://discord-music-player.js.org/">Discord Music Player</a>
 
 ## How to configure the bot?
 
