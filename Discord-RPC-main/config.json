@@ -1,0 +1,7 @@
+{
+    "botId": "Enter your Application ID",
+    "details": "Enter the detail that your want to show in your RPC",
+    "state": "Enter the state of you doing something to display in your RPC",
+    "largeImageKey": "Enter the name of the icon you added :-🧿-:",
+    "largeImageText": "Enter the text that your want to show when people point the Image of your RPC"
+}
