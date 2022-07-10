@@ -1,2 +1,2 @@
-# Discord-Bots
-Discord bots I made for time pass.
+# Discord-Projects
+Discord projects for time pass.
